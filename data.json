@@ -1,0 +1,1814 @@
+[
+    {
+        "id": 110383,
+        "name": "SB Tactical SBA4 BLK, Pistol Stabilizing Brace",
+        "slug": "sb-tactical-sba4-blk-pistol-stabilizing-brace",
+        "permalink": "https:\/\/shoot-straight.com\/product\/sb-tactical-sba4-blk-pistol-stabilizing-brace\/",
+        "date_created": "2020-08-04T20:15:49",
+        "date_modified": "2020-08-04T20:19:58",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h2>SB Tactical SBA4 BLK, Pistol Stabilizing Brace<\/h2>\n<p class=\"p1\">The SBA4 Pistol Brace is improved with new features that make it much more ergonomic and comfortable to use on any pistol that can accept a Mil-Spec buffer tube. It features 5 positions of adjustment and comes with the Mil-Spec buffer tube ready to attach to any pistol lower. Another improvement this model has is the M4 style shape that improves rigidity. The adjustable strap wraps around your forearm and the adjustable length of pull makes it easy to use no matter your arm length. Or simply use it braced against your cheek for more accurate shots. Building a compact AR Pistol has never been easier with the SB Tactical SBA4 Arm Brace.<\/p>\n<p><b>Features:<\/b><\/p>\n<ul>\n<li>Designed after the SBM4 with more rigid profile<\/li>\n<li>Compatible with Mil-Spec carbine buffer tubes<\/li>\n<li>Includes 7075-T6 aluminum buffer tube<\/li>\n<li>5 positions of adjustment<\/li>\n<li>Integral, ambidextrous QD sling socket<\/li>\n<li>ATF compliant<\/li>\n<li>Veteran designed and made in the U.S.A.<\/li>\n<\/ul>\n<p>SB Tactical, the originator of the Pistol Stabilizing Brace, is a groundbreaking leader committed to providing hard-core shooters with what they need. They will let nothing stand in the way of their relentless quest to innovate and to help preserve and protect the Second Amendment.<\/p>\n<p>ATF compliant, US veteran designed and proudly made in the USA<br \/>\nProduct Includes: brace, adjustable nylon strap<\/p>\n<p><strong>The Bureau of Alcohol, Tobacco, Firearms and Explosives has stated that the SB Tactical\u2122 Pistol Stabilizing Brace is legal to own, legal to purchase and legal to install on a pistol. BATFE has consistently stated that a pistol with a Pistol Stabilizing Brace attached remains a pistol under the Gun Control Act when used as designed.<\/strong> <a href=\"https:\/\/www.sb-tactical.com\/resource-category\/atf-letter\/\">ATF Approval Letters<\/a><\/p>\n",
+        "short_description": "",
+        "sku": "SBA4-01-SB-1",
+        "price": "139.99",
+        "regular_price": "139.99",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>139.99<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 5,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "3",
+        "dimensions": {
+            "length": "8",
+            "width": "3",
+            "height": "12"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "flat_accessories",
+        "shipping_class_id": 3953,
+        "reviews_allowed": false,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            48387,
+            7446,
+            17025,
+            16825,
+            16653
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 3221,
+                "name": "CONVERSION KITS AND SLIDES",
+                "slug": "conversion-kits"
+            },
+            {
+                "id": 3287,
+                "name": "GUN PARTS",
+                "slug": "gun-parts"
+            },
+            {
+                "id": 69,
+                "name": "STOCKS &amp; FORENDS",
+                "slug": "stocks-forends"
+            }
+        ],
+        "tags": [
+            {
+                "id": 4110,
+                "name": "BRACE",
+                "slug": "brace"
+            },
+            {
+                "id": 3362,
+                "name": "GUN PARTS",
+                "slug": "gun-parts"
+            },
+            {
+                "id": 4247,
+                "name": "SB TACTICAL",
+                "slug": "sb-tactical"
+            },
+            {
+                "id": 5625,
+                "name": "SBA4",
+                "slug": "sba4"
+            },
+            {
+                "id": 4249,
+                "name": "STABILIZING",
+                "slug": "stabilizing"
+            }
+        ],
+        "images": [
+            {
+                "id": 110384,
+                "date_created": "2020-08-04T20:19:20",
+                "date_modified": "2020-08-04T20:19:32",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/08\/SBA4-01-SB_00.jpg",
+                "name": "SBA4-01-SB",
+                "alt": "SBA4-01-SB",
+                "position": 0
+            },
+            {
+                "id": 77118,
+                "date_created": "2018-07-16T18:59:12",
+                "date_modified": "2018-07-16T21:49:37",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2018\/07\/SBM4-BLK-Sample.jpg",
+                "name": "SBM4 BLK Sample",
+                "alt": "SB Tactical SBM4 BLK, Pistol Stabilizing Brace",
+                "position": 1
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "SB TACTICAL"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/110383"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 110381,
+        "name": "MI Gen2 AK47\/74 Universal Handguard, M-LOK\u2122 Compatible, Rail Topcover",
+        "slug": "mi-gen2-ak47-74-universal-handguard-m-lok-compatible-rail-topcover",
+        "permalink": "https:\/\/shoot-straight.com\/product\/mi-gen2-ak47-74-universal-handguard-m-lok-compatible-rail-topcover\/",
+        "date_created": "2020-08-04T19:49:16",
+        "date_modified": "2020-08-04T20:10:19",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h3>MI Gen2 AK47\/74 Universal Handguard, M-LOK\u2122 Compatible, Rail Topcover<\/h3>\n<p class=\"p1\"><span class=\"s1\">The Midwest Industries MI Gen2 AK47\/74 Universal Handguard is M-LOK Compatible with T1 Topcover highest quality, most affordable AK handguard on the market.\u00a0<\/span><\/p>\n<h4 class=\"p1\"><b>Features<\/b><\/h4>\n<table class=\"colors_descriptionbox\" border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td valign=\"middle\" width=\"1\"><img src=\"https:\/\/www.midwestindustriesinc.com\/v\/vspfiles\/templates\/backup031417\/images\/clear1x1.gif\" alt=\"\" width=\"1\" height=\"1\" \/><\/td>\n<td valign=\"top\" width=\"100%\">\n<table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td>\n<div id=\"ProductDetail_ProductDetails_div\">\n<div>\u2666 Installs in minutes with no permanent modifications, easy to follow instructions and all tools included<\/div>\n<div>\u2666 Lightweight, rugged construction of 6061 aluminum, hard coat anodized for a lifetime of service<\/div>\n<div>\u2666 Weighs only 7.5 ounces<\/div>\n<div>\u2666 Battle proven patented clamping system: US Patent #625,7655<\/div>\n<div>\u2666 Optic specific models include US patented design features<\/div>\n<div>\u2666 M-LOK\u2122 compatible design includes one five slot picatinny rail section<\/div>\n<div>\u2666 Two anti-rotation QD sockets for QD sling swivels<\/div>\n<div>\u2666 Lifetime Warranty<\/div>\n<div>\u2666 100% Made in the U.S.A.<\/div>\n<div>\u2666 The highest quality, most affordable AK handguard on the market!<\/div>\n<div>\u2666 Requirements for fit:<\/div>\n<div>1. Barrel diameter of .700 under lower handguard<\/div>\n<div>2. Lower furniture length of 6.0 inches, not counting mounting surfaces<\/div>\n<div>3. Upper gas tube furniture length of 4.0 inches, not counting mounting surfaces<\/div>\n<div><\/div>\n<div>M-LOK\u2122 is a trademark of Magpul Industries Corp<\/div>\n<\/div>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n",
+        "short_description": "",
+        "sku": "MI-AKG2-UM",
+        "price": "159",
+        "regular_price": "159",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>159.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 5,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "flat_accessories",
+        "shipping_class_id": 3953,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            1497,
+            1576,
+            3755,
+            3440,
+            3796
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 67,
+                "name": "ACCESSORIES",
+                "slug": "accessories"
+            },
+            {
+                "id": 3287,
+                "name": "GUN PARTS",
+                "slug": "gun-parts"
+            }
+        ],
+        "tags": [
+            {
+                "id": 3362,
+                "name": "GUN PARTS",
+                "slug": "gun-parts"
+            },
+            {
+                "id": 4310,
+                "name": "MI",
+                "slug": "mi"
+            },
+            {
+                "id": 4311,
+                "name": "MIDWEST INDUSTRIES",
+                "slug": "midwest-industries"
+            }
+        ],
+        "images": [
+            {
+                "id": 110382,
+                "date_created": "2020-08-04T20:09:01",
+                "date_modified": "2020-08-04T20:09:01",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/08\/MI-AKG2-UM-2T.jpg",
+                "name": "MI-AKG2-UM-2T",
+                "alt": "",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "MIDWEST INDUSTRIES INC."
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/110381"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 110072,
+        "name": "Daniel Defense DDM4 V7 SLW Black 14.5\" 5.56mm Nato, M-LOK",
+        "slug": "daniel-defense-ddm4-v7-slw-black-14-5-5-56mm-nato-m-lok",
+        "permalink": "https:\/\/shoot-straight.com\/product\/daniel-defense-ddm4-v7-slw-black-14-5-5-56mm-nato-m-lok\/",
+        "date_created": "2020-07-28T14:43:15",
+        "date_modified": "2020-07-29T16:42:12",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h1>Daniel Defense DDM4 V7 SLW Black 14.5\" 5.56mm Nato, M-LOK<\/h1>\n<div class=\"initial-description\">\n<p>The Daniel Defense M4 V7 SLW is one of the lightest, fastest-handling rifles available in the DDM4 line-up, tipping the scales at under 6 lbs. Built around a Cold Hammer Forged, 14.5\u201d Lightweight profile barrel, the V7 SLW has an Extended Flash Suppressor which is pinned and welded to reach the NFA required 16\u201d minimum barrel length. The mid-length gas system provides smooth and reliable cycling under any conditions and reduces both perceived recoil and wear on moving parts.<\/p>\n<p>A free-floating MFR 13.5 handguard offers incredible weight savings as well as superior cooling, ergonomics, and modularity while maintaining the strength and durability expected from Daniel Defense. With the M-LOK attachment points that run along 7 positions and an uninterrupted 1913 Picatinny rail on top, the V7 SLW has plenty of room for the sights, optics, and accessories the operator may require.\u00a0 The new independently ambi GRIP-N-RIP Charging Handle accommodates left- and right-handed shooters and is engineered for suppressed fire, with anti-gas features that redirect gas flow upward and away from the face and operator.\u00a0 The rifle is finished off with the rugged and comfortable Daniel Defense Buttstock and Pistol Grip.<\/p>\n<p><a href=\"https:\/\/danieldefense.com\/returns\">WARRANTY &amp; RETURNS<\/a><\/p>\n<div class=\"product-info-title additional-title\">\n<h2>SPECIFICATIONS<\/h2>\n<ul>\n<li><strong>Mounting System:<\/strong> M-LOK<\/li>\n<li><strong>Caliber:<\/strong> 5.56mm NATO<\/li>\n<li><strong>Muzzle Thread:<\/strong> 1\u20442\u00d728 TPI (Threads Per Inch)<\/li>\n<li><strong>Gas System:<\/strong> Mid-length<\/li>\n<li><strong>Barrel Length:<\/strong> 14.5\"<\/li>\n<li><strong>Barrel Profile:<\/strong> Lightweight<\/li>\n<li><strong>Product Weight:<\/strong> 5.9 LBS<\/li>\n<li><strong>Length:<\/strong> 31 \u00bd\u201d \u2013 34 \u00be\u201d<\/li>\n<li><strong>Magazine:<\/strong> DD Magazine<\/li>\n<li><strong>Case:<\/strong> Daniel Defense Full-Latch Impact Plastic Case<\/li>\n<li><strong>Manufacturer:<\/strong> Daniel Defense<\/li>\n<\/ul>\n<h2>ADDITIONAL INFORMATION<\/h2>\n<\/div>\n<div class=\"secondary-description\">\n<ul>\n<li><strong>LOWER RECEIVER:<\/strong> Mil-Spec with Enhanced Flared Magazine Well and Rear Receiver QD Swivel Attachment Point. CNC Machined of\u00a0 7075-T6 Aluminum<\/li>\n<li><strong>UPPER RECEIVER:<\/strong> Mil-Spec with Indexing Marks and M4 Feed Ramps. CNC Machined of 7075-T6 Aluminum<\/li>\n<li><strong>BARREL:<\/strong> Chrome Moly Vanadium Steel, Cold Hammer Forged, 1:7\" Twist, 14.5\u2033 Lightweight Profile, Chrome Lined, Mil-Spec Heavy Phosphate Coated, and HP\/MPI Tested<\/li>\n<li><strong>GAS SYSTEM:<\/strong> Pinned Low Profile Gas Block CNC Machined of 4140 hardened steel and Mil-Spec Heavy Phosphate Coating, Mid-length, Direct Impingement<\/li>\n<li><strong>MUZZLE DEVICE:<\/strong> Pinned and Welded Daniel Defense Flash Suppressor, Extended, 17-4 PH Stainless Steel, Salt Bath Nitride Finished<\/li>\n<li><strong>BOLT CARRIER GROUP:<\/strong> M16 Profile, Mil-Spec MP tested, Chrome Lined, Properly Staked Gas Key<\/li>\n<li><strong>BUFFER:<\/strong> H Buffer<\/li>\n<li><strong>SIGHTS:<\/strong> Sold Separately<\/li>\n<li><strong>HANDGUARD:<\/strong> Daniel Defense MFR 13.5\", CNC Machined of 6061-T6 Aluminum, M-LOK Attachment, Type III Hard Coat Anodized<\/li>\n<li><strong>CHARGING HANDLE:<\/strong> GRIP-N-RIP Charging Handle, Body CNC Machined of 7075-T6 Aluminum, Handles &amp; Latch CNC Machined of 6061-T6 Aluminum, Heavy Duty Stainless Steel Roll Pins, Type III Hard Coat Anodized<\/li>\n<li><strong>RECEIVER EXTENSION:<\/strong> 6-Position Mil-Spec 7075-T6 Aluminum<\/li>\n<li><strong>BUTTSTOCK:<\/strong> Daniel Defense Buttstock, Glass Filled Polymer with Soft Touch Overmolding<\/li>\n<li><strong>PISTOL GRIP:<\/strong> Daniel Defense Pistol Grip, Glass Filled Polymer with Soft Touch Overmolding<\/li>\n<li>Made in the USA!<\/li>\n<\/ul>\n<div class=\"product-info-title additional-title\"><\/div>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n<\/div>\n<\/div>\n",
+        "short_description": "",
+        "sku": "02-128-15049-047",
+        "price": "1899",
+        "regular_price": "1899",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1,899.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 2,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "in_stock": false,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "15",
+        "dimensions": {
+            "length": "42",
+            "width": "10",
+            "height": "4"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            88281,
+            104504,
+            10129,
+            10002,
+            10073
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 1039,
+                "name": "SEMI-AUTO RIFLES",
+                "slug": "semi-auto-rifles"
+            }
+        ],
+        "tags": [
+            {
+                "id": 5623,
+                "name": "14.5\"",
+                "slug": "14-5"
+            },
+            {
+                "id": 5163,
+                "name": "32RD",
+                "slug": "32rd"
+            },
+            {
+                "id": 4989,
+                "name": "5.56",
+                "slug": "5-56"
+            },
+            {
+                "id": 4988,
+                "name": "5.56 NATO",
+                "slug": "5-56-nato"
+            },
+            {
+                "id": 3016,
+                "name": "5.56MM",
+                "slug": "5-56mm"
+            },
+            {
+                "id": 4293,
+                "name": "AR 15",
+                "slug": "ar-15"
+            },
+            {
+                "id": 2958,
+                "name": "DANIEL DEFENSE",
+                "slug": "daniel-defense"
+            },
+            {
+                "id": 5158,
+                "name": "DDM4 V7",
+                "slug": "ddm4-v7"
+            },
+            {
+                "id": 5159,
+                "name": "DDM4V7",
+                "slug": "ddm4v7"
+            },
+            {
+                "id": 5624,
+                "name": "DDM4V7SLW",
+                "slug": "ddm4v7slw"
+            },
+            {
+                "id": 2216,
+                "name": "M-LOK",
+                "slug": "m-lok"
+            },
+            {
+                "id": 5162,
+                "name": "MSR",
+                "slug": "msr"
+            },
+            {
+                "id": 1106,
+                "name": "SEMI-AUTO RIFLES",
+                "slug": "semi-auto-rifles"
+            },
+            {
+                "id": 4216,
+                "name": "SLW",
+                "slug": "slw"
+            }
+        ],
+        "images": [
+            {
+                "id": 110073,
+                "date_created": "2020-07-28T14:51:28",
+                "date_modified": "2020-07-28T14:51:41",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/DDM4-V7-SLW.jpg",
+                "name": "DDM4-V7-SLW",
+                "alt": "DDM4-V7-SLW",
+                "position": 0
+            },
+            {
+                "id": 89358,
+                "date_created": "2019-08-01T16:07:57",
+                "date_modified": "2019-08-01T16:07:57",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2019\/08\/ddm4_v7_left.jpg",
+                "name": "ddm4_v7_left",
+                "alt": "",
+                "position": 1
+            }
+        ],
+        "attributes": [
+            {
+                "id": 55,
+                "name": "Action",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DIRECT GAS IMPINGEMENT",
+                    "SEMI-AUTO"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "14.5\""
+                ]
+            },
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DANIEL DEFENSE"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Caliber",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    ".223 REM \/ 5.56MM NATO"
+                ]
+            },
+            {
+                "id": 49,
+                "name": "Capacity",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "32 RD"
+                ]
+            },
+            {
+                "id": 35,
+                "name": "Firearm Model",
+                "position": 6,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "DDM4 V7 SLW"
+                ]
+            },
+            {
+                "id": 52,
+                "name": "Overall Length",
+                "position": 8,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "31 \u00bd\u201d \u2013 34 \u00be\u201d"
+                ]
+            },
+            {
+                "id": 62,
+                "name": "Sights",
+                "position": 9,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "(MUST BE PURCHASED SEPARATELY)",
+                    "NONE"
+                ]
+            },
+            {
+                "id": 53,
+                "name": "Weight (lbs)",
+                "position": 10,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "5.9"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/110072"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109785,
+        "name": "Glock 17 Gen5, 9mm MOS, Front Serrations, 17RD",
+        "slug": "glock-17-gen5-9mm-mos-front-serrations-17rd",
+        "permalink": "https:\/\/shoot-straight.com\/product\/glock-17-gen5-9mm-mos-front-serrations-17rd\/",
+        "date_created": "2020-07-22T19:45:09",
+        "date_modified": "2020-08-11T04:10:09",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h3>Glock 17 Gen5, 9mm, Front Serrations, 17RD<\/h3>\n<p>The Glock 17 Gen5 removed the finger grooves for more versatility but still allows to easily customize its grip by using the different back straps. A flared mag-well and a cutout at the front of the frame give the user more speed during reloading when fractions of a second matter. A reversible enlarged magazine catch, changeable at user level as well as the ambidextrous slide stop lever accommodate left and right-handed operators. The rifling and the crown of the barrel were slightly modified for increased precision.<\/p>\n<p><strong>Glock 17 Gen5 MOS (Modular Optic System)<\/strong><\/p>\n<p><span style=\"font-size: 16px;\">With the G17 Gen5 MOS GLOCK enhances the already near-perfect Gen5 model of \"The original\" with the addition of the <\/span><strong style=\"font-size: 16px;\">Modular Optic\u00a0System (MOS)<\/strong><span style=\"font-size: 16px;\">. The slide is precision machined to provide a mounting system for popular optic sights. With\u00a0<\/span><strong style=\"font-size: 16px;\">multiple adapter plates<\/strong><span style=\"font-size: 16px;\">, you can quickly and easily mount miniature\u00a0red dot\u00a0sights to the rear of the Gen5 GLOCK slide,\u00a0which has\u00a0<\/span><strong style=\"font-size: 16px;\">front serrations\u00a0<\/strong><span style=\"font-size: 16px;\">for easier and quicker manipulations.<\/span><\/p>\n<div class=\"pistoldetail__description\">\n<p>All of the\u00a0<strong>Gen5 qualities<\/strong>\u00a0are present in this standard-size pistol: The latest GLOCK\u00a0<strong>nDLC surface\u00a0<\/strong>finish on the major metal components, unmatched in hardness and rust resistance; the high traction Gen5 frame texture, quickly reversible magazine catch, ambidextrous slide stop lever, the\u00a0<strong>GLOCK\u00a0Modular Backstrap System (MBS)<\/strong>\u00a0for individual operator adjustability, the universally-acclaimed\u00a0<strong>GLOCK Safe Action<sup>\u00ae<\/sup>\u00a0System<\/strong>\u00a0and high visibility orange magazine followers.<\/p>\n<\/div>\n<p><a href=\"https:\/\/us.glock.com\/customer-service\/glock-warranty\">GLOCK WARRANTY<\/a><\/p>\n<h4><strong>Specifications<\/strong><\/h4>\n<ul>\n<li><strong>Condition:<\/strong> New<\/li>\n<li><strong>Brand:<\/strong> Glock<\/li>\n<li><strong>Model:<\/strong> Glock 17 Gen5 MOS Front Serrations<\/li>\n<li><strong>Type:<\/strong> Pistol<\/li>\n<li><strong>Caliber:<\/strong> 9mm<\/li>\n<li><strong>Barrel Length:<\/strong> 4.49\"<\/li>\n<li><strong>Capacity: <\/strong>17 Rounds<\/li>\n<li><strong>Weight:<\/strong> 33.3 oz<\/li>\n<li><strong>Finish:<\/strong> Black<\/li>\n<\/ul>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "PA175S203MOS",
+        "price": "729",
+        "regular_price": "729",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>729.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 9,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "in_stock": false,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            10002,
+            97597,
+            94397,
+            10053,
+            10244
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 950,
+                "name": "HANDGUNS",
+                "slug": "handguns"
+            }
+        ],
+        "tags": [
+            {
+                "id": 5587,
+                "name": "FRONT SERRATIONS",
+                "slug": "front-serrations"
+            },
+            {
+                "id": 2047,
+                "name": "GLOCK",
+                "slug": "glock"
+            },
+            {
+                "id": 5619,
+                "name": "glock 17",
+                "slug": "glock-17"
+            },
+            {
+                "id": 5620,
+                "name": "GLOCK 17 GEN5",
+                "slug": "glock-17-gen5"
+            }
+        ],
+        "images": [
+            {
+                "id": 109786,
+                "date_created": "2020-07-22T19:49:16",
+                "date_modified": "2020-07-22T19:49:30",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/Screen-Shot-2020-07-22-at-3.48.38-PM.png",
+                "name": "Glock 17 Gen5, 9mm MOS, Front Serrations, 17RD",
+                "alt": "Glock 17 Gen5, 9mm MOS, Front Serrations, 17RD",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "GLOCK INC."
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109785"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109458,
+        "name": "FN 509T, 9mm, 17-round, Semi-Auto Handgun",
+        "slug": "fn-509t-9mm-17-round-semi-auto-handgun",
+        "permalink": "https:\/\/shoot-straight.com\/product\/fn-509t-9mm-17-round-semi-auto-handgun\/",
+        "date_created": "2020-07-16T20:25:49",
+        "date_modified": "2020-07-16T20:34:28",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h2>FN 509T, 9mm, 17-round, Semi-Auto Handgun<\/h2>\n<p><strong> About the FN 509 Tactical, 9mm, 17-round, Semi-Auto Handgun:<\/strong><br \/>\nThe FN 509\u00ae Tactical, an extension of the FN 509 family, is based on FN\u2019s submission pistol that the U.S. Army tested for its Modular Handgun Trials, but includes the significant improvements to the design that were implemented in the FN 509. The pistol features the company\u2019s U.S Patent No. 10\/352,654 Low-Profile Optics Mounting System\u2122 that enables the platform to accept more than ten commercially-available miniature red dot (MRD) optics that co-witness with the suppressor-height night sights and remain adaptable to future optics releases with no requirement of direct milling of the slide. The slide cap, for use when not shooting with an optic, has raised sight wings that protect iron sight alignment if the pistol is dropped or jostled, and provides a textured ramp for racking the slide against a belt loop, pant pocket or boot. An FN-signature 4.5-inch, cold hammer-forged, stainless-steel barrel with target crown, \u00bd\u201d x 28 threads that accept the bulk of 9mm suppressors available and thread cap with integrated O-ring to prevent loosening during use complete the top end. Lastly, the 24-round magazines, nearly identical in length to the pistol\u2019s slide, maximize ammunition capacity without impacting carry convenience.<\/p>\n<h4>Specifications:<\/h4>\n<ul>\n<li><strong>Caliber:\u00a0<\/strong>9MM<\/li>\n<li><strong>Action:\u00a0<\/strong> Semi-Auto, Striker Fired<\/li>\n<li><strong>Capacity:\u00a0<\/strong>17 or 24<\/li>\n<li><strong>Barrel Length:\u00a0<\/strong>4.5\"<\/li>\n<li><strong>Overall Length:\u00a0<\/strong>7.9\"<\/li>\n<li><strong>Material:\u00a0<\/strong>Stainless Steel<\/li>\n<li><strong>Finish:\u00a0<\/strong>Satin Case-hardened Ferritic Nitrocarbuaration<\/li>\n<\/ul>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<div class=\"soliloquy-outer-container\" data-soliloquy-loaded=\"0\">\n<div aria-live=\"polite\" id=\"soliloquy-container-94987\" class=\"soliloquy-container soliloquy-transition-fade soliloquy-fade soliloquy-controls-active soliloquy-arrows-active  soliloquy-theme-base\" style=\"max-width:1280px;max-height:720px;margin:0 auto 20px;\">\n<ul id=\"soliloquy-94987\" class=\"soliloquy-slider soliloquy-slides soliloquy-wrap soliloquy-clear\">\n<li aria-hidden=\"true\" class=\"soliloquy-item soliloquy-item-1 soliloquy-id-94987-fn509spotlight soliloquy-video-slide\" draggable=\"false\" style=\"list-style:none;\"><a href=\"#\" class=\"soliloquy-video-link soliloquy-link\" title=\"FN 509 SPOTLIGHT\"><img id=\"soliloquy-video-94987-fn509spotlight\" class=\"soliloquy-image soliloquy-video-thumb soliloquy-video-youtube soliloquy-video-1\" src=\"https:\/\/shoot-straight.com\/wp-content\/uploads\/2019\/12\/FN-509-Thumbnail.jpg\" alt=\"FN 509 SPOTLIGHT\" \/><span class=\"soliloquy-video-icon soliloquy-youtube-video\" data-soliloquy-video-type=\"youtube\" data-soliloquy-video-id=\"wEkrnEy5w2w\" data-soliloquy-video-holder=\"94987-fn509spotlight\"><\/span>\n<div id=\"94987-fn509spotlight-holder\" class=\"soliloquy-video-holder\" data-soliloquy-slider-id=\"94987\"><\/div>\n<p><\/a><\/li>\n<\/ul>\n<\/div>\n<p><noscript><\/p>\n<style type=\"text\/css\">#soliloquy-container-94987{opacity:1}#soliloquy-container-94987 li > .soliloquy-caption{display:none}#soliloquy-container-94987 li:first-child > .soliloquy-caption{display:block}<\/style>\n<div class=\"soliloquy-no-js\" style=\"display:none;visibility:hidden;height:0;line-height:0;opacity:0;\"><img class=\"soliloquy-image soliloquy-no-js-image skip-lazy\" src=\"https:\/\/shoot-straight.com\/wp-content\/uploads\/2019\/12\/FN-509-Thumbnail.jpg\" alt=\"\" \/><\/div>\n<p><\/noscript><\/div>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "66-100375",
+        "price": "999",
+        "regular_price": "999",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>999.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "5",
+        "dimensions": {
+            "length": "11",
+            "width": "2",
+            "height": "13"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            94410,
+            10129,
+            97650,
+            97698,
+            9851
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 950,
+                "name": "HANDGUNS",
+                "slug": "handguns"
+            }
+        ],
+        "tags": [
+            {
+                "id": 2972,
+                "name": "9MM",
+                "slug": "9mm"
+            },
+            {
+                "id": 992,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 3990,
+                "name": "FN 509",
+                "slug": "fn-509"
+            },
+            {
+                "id": 5618,
+                "name": "FN 509T",
+                "slug": "fn-509t"
+            },
+            {
+                "id": 2890,
+                "name": "FNH USA",
+                "slug": "fnh-usa"
+            },
+            {
+                "id": 1014,
+                "name": "HANDGUNS",
+                "slug": "handguns"
+            }
+        ],
+        "images": [
+            {
+                "id": 109460,
+                "date_created": "2020-07-16T20:33:05",
+                "date_modified": "2020-07-16T20:33:23",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/FN_509T_Black.png",
+                "name": "FN 509T Black 9mm",
+                "alt": "FN 509T Black 9mm",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 44,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "FNH USA"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Caliber",
+                "position": 45,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "9MM"
+                ]
+            },
+            {
+                "id": 49,
+                "name": "Capacity",
+                "position": 46,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "17+1"
+                ]
+            },
+            {
+                "id": 55,
+                "name": "Action",
+                "position": 47,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "STRIKER FIRE"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 48,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "4.5\""
+                ]
+            },
+            {
+                "id": 52,
+                "name": "Overall Length",
+                "position": 49,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "7.9\""
+                ]
+            },
+            {
+                "id": 37,
+                "name": "Material",
+                "position": 50,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "POLYMER"
+                ]
+            },
+            {
+                "id": 50,
+                "name": "Finish",
+                "position": 51,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MELONITE BLACK"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109458"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109407,
+        "name": "Beretta 686 Silver Pigeon I, 28ga 30\" J686FM0",
+        "slug": "beretta-686-silver-pigeon-i-28ga-30-j686fm0-2",
+        "permalink": "https:\/\/shoot-straight.com\/product\/beretta-686-silver-pigeon-i-28ga-30-j686fm0-2\/",
+        "date_created": "2020-07-15T20:31:23",
+        "date_modified": "2020-07-15T20:34:10",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h3>Beretta 686 Silver Pigeon I, 28ga 30\" J686FM0<\/h3>\n<p>The all new Beretta 686 Silver Pigeon I hunting shotgun has all the functional features of the premium over-unders at a particularly attractive price. At its heart, it has the best-in-class 686 action, which is compact and low-profile while being extremely strong. Whether you take it to an upland hunt or to the clay range, the Silver Pigeon I gives you the flawless performance and the classic looks of a Beretta. Featuring classic lines, the most-durable action on the market and the flexibility of the\u00a0Beretta Mobil-Choke\u00a0system, the 686 Silver Pigeon I was designed to last through generations of hunters.<\/p>\n<h4><a href=\"https:\/\/www.berettausa.com\/en-us\/customer-service\/warranty-serial-number-information\/\">BERETTA WARRANTY<\/a><\/h4>\n<h4>Features<\/h4>\n<ul>\n<li>Interchangable Chokes<\/li>\n<li>Low Profile Receiver<\/li>\n<li>Schnabel Fore-End<\/li>\n<li>Scroll Engraving<\/li>\n<li>Selected Walnut<\/li>\n<li>Cold-Hammer Forged Barrel<\/li>\n<li>Tang Safety and Barrel Selector<\/li>\n<\/ul>\n<h4><strong>Specifications<\/strong><\/h4>\n<ul>\n<li><strong>Condition:<\/strong>\u00a0New<\/li>\n<li><strong>Brand:\u00a0<\/strong>Beretta<\/li>\n<li><strong>Caliber:<\/strong> 28 Gauge<\/li>\n<li><strong>Barrel Length:<\/strong> 30\"<\/li>\n<li><strong>Choke: <\/strong>MCF<\/li>\n<li><strong>Chamber:<\/strong>\u00a03\"<\/li>\n<\/ul>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "J6863K8-1",
+        "price": "1898",
+        "regular_price": "1898",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1,898.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "16",
+        "dimensions": {
+            "length": "54",
+            "width": "14",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            97166,
+            94410,
+            97693,
+            88281,
+            94387
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 1043,
+                "name": "BREAK-BARREL SHOTGUNS",
+                "slug": "break-barrel-shotguns"
+            },
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            }
+        ],
+        "tags": [
+            {
+                "id": 4262,
+                "name": "686",
+                "slug": "686"
+            },
+            {
+                "id": 1639,
+                "name": "686 SILVER PIGEON I",
+                "slug": "686-silver-pigeon-i"
+            },
+            {
+                "id": 2865,
+                "name": "BERETTA",
+                "slug": "beretta"
+            },
+            {
+                "id": 5210,
+                "name": "SILVER PIGEON I",
+                "slug": "silver-pigeon-i"
+            }
+        ],
+        "images": [
+            {
+                "id": 108530,
+                "date_created": "2020-07-03T14:04:35",
+                "date_modified": "2020-07-03T14:04:35",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/J6863K6J6863N6.jpg",
+                "name": "J6863K6:J6863N6",
+                "alt": "",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "BERETTA"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "30\""
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109407"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109395,
+        "name": "Beretta 694 Sporting 12ga 30\" J694E10",
+        "slug": "beretta-694-sporting-12ga-30-j694e10",
+        "permalink": "https:\/\/shoot-straight.com\/product\/beretta-694-sporting-12ga-30-j694e10\/",
+        "date_created": "2020-07-15T18:23:22",
+        "date_modified": "2020-08-04T11:23:45",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h1>Beretta 694 Sporting 12ga 30\" J694E10<\/h1>\n<p>Designed and tested in collaboration with the Beretta Shooting Team, 694 is the new over-and-under platform designed specifically for competition shooting, with a precise objective in mind: to help shooters increase their success rate.<\/p>\n<p>Thanks to a meticulous mechanical and ergonomic design process, the 694 represents a perfectly balanced over-and-under competition shotgun. Natural and immediate when shouldering, it features a precise swing and it\u2019s easy to control.<\/p>\n<p>The new shape of the action and the stock provide increased field of vision, while the new forend iron system allows the user to maintain the opening load constant over time, and the Steelium Plus barrels guarantee a dense, uniform pattern every time. The slim, modern design lends the 694 a \"racing\" feel, for a bold, winning look.<\/p>\n<p>The ergonomics of the\u00a0<strong>stock<\/strong>\u00a0has been completely redesigned to provide the ideal configuration for every discipline. The first new feature is the way the action is bedded into the stock, where the profile of the action is accompanied by two progressive grooves, thus reducing the presence of obstacles in the field of view when shouldering the gun: this important development helps the shooter to avoid having to raise his\/her head from the line of sight, a movement that often results in a \"zero\".<\/p>\n<h4>Specifications<\/h4>\n<ul>\n<li><strong>Caliber<\/strong>: 12 Gauge<\/li>\n<li><strong>Stock<\/strong>: Wood<\/li>\n<li><strong>Barrel Length<\/strong>: 30\u2033<\/li>\n<\/ul>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of <strong>firearms<\/strong> to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "J694E10",
+        "price": "2798",
+        "regular_price": "2798",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>2,798.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 1,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "16",
+        "dimensions": {
+            "length": "52",
+            "width": "14",
+            "height": "4"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            87032,
+            88281,
+            97693,
+            10080,
+            94410
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 1651,
+                "name": "SEMI-AUTO SHOTGUNS",
+                "slug": "semi-auto-shotguns"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1636,
+                "name": "12 GAUGE",
+                "slug": "12-gauge"
+            },
+            {
+                "id": 5617,
+                "name": "694 Sporting",
+                "slug": "694-sporting"
+            },
+            {
+                "id": 2865,
+                "name": "BERETTA",
+                "slug": "beretta"
+            },
+            {
+                "id": 992,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 1653,
+                "name": "SEMI-AUTO SHOTGUN",
+                "slug": "semi-auto-shotgun"
+            }
+        ],
+        "images": [
+            {
+                "id": 109394,
+                "date_created": "2020-07-15T18:22:23",
+                "date_modified": "2020-07-15T18:22:37",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/Beretta-694-Sporting_12ga.jpg",
+                "name": "Beretta 694 Sporting 12ga",
+                "alt": "Beretta 694 Sporting 12ga",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "BERETTA"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Caliber",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "12GA"
+                ]
+            },
+            {
+                "id": 46,
+                "name": "Stock",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "WOOD"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "30\""
+                ]
+            },
+            {
+                "id": 51,
+                "name": "Rear Sight",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NONE"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109395"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109393,
+        "name": "Beretta 694 Sporting w B-FAST 12ga 30\" J694B10",
+        "slug": "beretta-694-sporting-w-b-fast-12ga-30-j694b10",
+        "permalink": "https:\/\/shoot-straight.com\/product\/beretta-694-sporting-w-b-fast-12ga-30-j694b10\/",
+        "date_created": "2020-07-15T18:18:00",
+        "date_modified": "2020-07-15T19:50:41",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h1>Beretta 694 Sporting w B-FAST 12ga 30\" J694B10<\/h1>\n<p>Designed and tested in collaboration with the Beretta Shooting Team, 694 is the new over-and-under platform designed specifically for competition shooting, with a precise objective in mind: to help shooters increase their success rate.<\/p>\n<p>Thanks to a meticulous mechanical and ergonomic design process, the 694 represents a perfectly balanced over-and-under competition shotgun. Natural and immediate when shouldering, it features a precise swing and it\u2019s easy to control.<\/p>\n<p>The new shape of the action and the stock provide increased field of vision, while the new forend iron system allows the user to maintain the opening load constant over time, and the Steelium Plus barrels guarantee a dense, uniform pattern every time. The slim, modern design lends the 694 a \"racing\" feel, for a bold, winning look.<\/p>\n<p>The ergonomics of the\u00a0<strong>stock<\/strong>\u00a0has been completely redesigned to provide the ideal configuration for every discipline. The first new feature is the way the action is bedded into the stock, where the profile of the action is accompanied by two progressive grooves, thus reducing the presence of obstacles in the field of view when shouldering the gun: this important development helps the shooter to avoid having to raise his\/her head from the line of sight, a movement that often results in a \"zero\".<\/p>\n<h4>Specifications<\/h4>\n<ul>\n<li><strong>Caliber<\/strong>: 12 Gauge<\/li>\n<li><strong>Stock<\/strong>: Wood<\/li>\n<li><strong>Barrel Length<\/strong>: 30\u2033<\/li>\n<\/ul>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of <strong>firearms<\/strong> to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "J694B10",
+        "price": "4348.00",
+        "regular_price": "4348.00",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>4,348.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 2,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "16",
+        "dimensions": {
+            "length": "52",
+            "width": "14",
+            "height": "4"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            10129,
+            10244,
+            87032,
+            10065,
+            97166
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 1651,
+                "name": "SEMI-AUTO SHOTGUNS",
+                "slug": "semi-auto-shotguns"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1636,
+                "name": "12 GAUGE",
+                "slug": "12-gauge"
+            },
+            {
+                "id": 5617,
+                "name": "694 Sporting",
+                "slug": "694-sporting"
+            },
+            {
+                "id": 2865,
+                "name": "BERETTA",
+                "slug": "beretta"
+            },
+            {
+                "id": 992,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            },
+            {
+                "id": 1653,
+                "name": "SEMI-AUTO SHOTGUN",
+                "slug": "semi-auto-shotgun"
+            }
+        ],
+        "images": [
+            {
+                "id": 109394,
+                "date_created": "2020-07-15T18:22:23",
+                "date_modified": "2020-07-15T18:22:37",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/Beretta-694-Sporting_12ga.jpg",
+                "name": "Beretta 694 Sporting 12ga",
+                "alt": "Beretta 694 Sporting 12ga",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": false,
+                "variation": false,
+                "options": [
+                    "BERETTA"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Caliber",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "12GA"
+                ]
+            },
+            {
+                "id": 46,
+                "name": "Stock",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "WOOD"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "30\""
+                ]
+            },
+            {
+                "id": 51,
+                "name": "Rear Sight",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "NONE"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109393"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109390,
+        "name": "Beretta 686 Silver Pigeon VITTORIA 12ga 28\" J686FJ8V",
+        "slug": "beretta-686-silver-pigeon-vittoria-12ga-28-j686fj8v",
+        "permalink": "https:\/\/shoot-straight.com\/product\/beretta-686-silver-pigeon-vittoria-12ga-28-j686fj8v\/",
+        "date_created": "2020-07-15T18:10:36",
+        "date_modified": "2020-07-15T19:53:45",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h1 class=\"item_header\">Beretta 686 Silver Pigeon VITTORIA 12ga 28\" J686FJ8V<\/h1>\n<p>Beretta J686FJ8V: Beretta's 686 Silver Pigeon I hunting shotgun offers the aesthetics and materials of the premium over-unders. At its heart, it has the best-in-class 686 action, which is compact and low-profile while being extremely strong. It features two conical locking lugs at mid-action, right between the barrels, giving it great locking strength and durability while keeping the action's profile considerably lower. The scroll-engraved receiver is a functional work of art, while blending perfectly with the stock and contributing to the gun's graceful lines. The oil-finished stock sports a beautiful, crisp checkering pattern and has a schnabel fore-end. Whether you take it to an upland hunt or to the clay range, the Silver Pigeon I gives you the flawless performance and the classic looks of a Beretta. This Vittoria model is reduced in length for shorter stature shooters.<\/p>\n<h3><strong>SPECIFICATIONS<\/strong><\/h3>\n<ul>\n<li><strong>Action:<\/strong> Over Under<\/li>\n<li><strong>Gauge:<\/strong> 12 Gauge<\/li>\n<li><strong>Barrel Length:<\/strong> 28\"<\/li>\n<li><strong>Capacity:<\/strong> 2<\/li>\n<li><strong>Stock:<\/strong>\u00a0Wood<\/li>\n<\/ul>\n<h3><a href=\"https:\/\/www.berettausa.com\/en-us\/customer-service\/warranty-serial-number-information\/\">BERETTA WARRANTY<\/a><\/h3>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "J686FJ8V",
+        "price": "1898",
+        "regular_price": "1898",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1,898.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1,
+        "in_stock": true,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "12",
+        "dimensions": {
+            "length": "14",
+            "width": "4",
+            "height": "42"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            10043,
+            97575,
+            10074,
+            104504,
+            97597
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 1043,
+                "name": "BREAK-BARREL SHOTGUNS",
+                "slug": "break-barrel-shotguns"
+            },
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            }
+        ],
+        "tags": [
+            {
+                "id": 2963,
+                "name": "12GA",
+                "slug": "12ga"
+            },
+            {
+                "id": 3744,
+                "name": "28\"",
+                "slug": "28"
+            },
+            {
+                "id": 4262,
+                "name": "686",
+                "slug": "686"
+            },
+            {
+                "id": 2865,
+                "name": "BERETTA",
+                "slug": "beretta"
+            },
+            {
+                "id": 5210,
+                "name": "SILVER PIGEON I",
+                "slug": "silver-pigeon-i"
+            },
+            {
+                "id": 5409,
+                "name": "VITTORIA",
+                "slug": "vittoria"
+            }
+        ],
+        "images": [
+            {
+                "id": 109391,
+                "date_created": "2020-07-15T18:15:00",
+                "date_modified": "2020-07-15T18:15:26",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/07\/beretta_686_silver_pigeon_vittoria.png",
+                "name": "Beretta 686 silver pigeon vittoria",
+                "alt": "Beretta 686 silver pigeon vittoria",
+                "position": 0
+            },
+            {
+                "id": 90163,
+                "date_created": "2019-08-28T14:32:44",
+                "date_modified": "2019-09-10T15:22:43",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2019\/08\/686.jpg",
+                "name": "SILVER PIGEON",
+                "alt": "SILVER PIGEON",
+                "position": 1
+            },
+            {
+                "id": 90165,
+                "date_created": "2019-08-28T14:34:15",
+                "date_modified": "2019-08-28T14:34:15",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2019\/08\/6862.jpg",
+                "name": "6862",
+                "alt": "",
+                "position": 2
+            },
+            {
+                "id": 90573,
+                "date_created": "2019-09-10T16:06:49",
+                "date_modified": "2019-09-10T16:06:49",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2017\/01\/17.jpg",
+                "name": "17",
+                "alt": "",
+                "position": 3
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "BERETTA"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Caliber",
+                "position": 1,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "12GA"
+                ]
+            },
+            {
+                "id": 46,
+                "name": "Stock",
+                "position": 2,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "WALNUT"
+                ]
+            },
+            {
+                "id": 47,
+                "name": "Front Sight",
+                "position": 3,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "BEAD"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "Barrel Length",
+                "position": 4,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "28\""
+                ]
+            },
+            {
+                "id": 0,
+                "name": "Choke",
+                "position": 7,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "MODIFIED\/CYLINDER\/FULL"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109390"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 109389,
+        "name": "Beretta 686 Silver Pigeon I Sporting LH Vented Mid Rib, 12ga 30\u201d J686SJ0L",
+        "slug": "beretta-686-silver-pigeon-i-sporting-lh-vented-mid-rib-12ga-30-j686sj0l",
+        "permalink": "https:\/\/shoot-straight.com\/product\/beretta-686-silver-pigeon-i-sporting-lh-vented-mid-rib-12ga-30-j686sj0l\/",
+        "date_created": "2020-07-15T18:04:03",
+        "date_modified": "2020-07-15T19:56:42",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<h3 class=\"p1\">Beretta 686 Silver Pigeon I Sporting LH Vented Mid Rib, 12ga 30\u201d J686SJ0L<\/h3>\n<p class=\"p1\">The Beretta 686 Silver Pigeon I Sporting - Vented Mid Rib, 12ga 30\u201d offers all the functional features of the Beretta\u2019s premium over and under competition shotguns. It is compact and low-profile while extremely strong. The Beretta 686 Silver Pigeon I Sporting features a floral engraving and will surely not fail to turn heads at the range.<\/p>\n<h4 class=\"p1\"><b>Specifications<\/b><\/h4>\n<ul class=\"ul1\">\n<li><strong>Condition:<\/strong>\u00a0New<\/li>\n<li><strong>Brand:\u00a0<\/strong>Beretta<\/li>\n<li class=\"li1\"><b>Action: <\/b>Over\/Under<\/li>\n<li class=\"li1\"><b>Gauge:<\/b> 12<\/li>\n<li class=\"li1\"><b>Barrel Length:<\/b> 30\u201d<\/li>\n<li class=\"li1\"><b>Chamber: <\/b>3\"<\/li>\n<li class=\"li1\"><b>Choke:<\/b> OBSP-HP<\/li>\n<li><strong>Grip:<\/strong> Left Hand<\/li>\n<\/ul>\n<hr \/>\n<h2><a href=\"https:\/\/shoot-straight.com\/faq\/buying-a-firearm-online\/\" target=\"_blank\" rel=\"noopener noreferrer\">Disclaimer<\/a><\/h2>\n<p>**Shoot Straight Inc. does\u00a0<strong>NOT<\/strong>\u00a0engage in the online sale of firearms to the following states:**<br \/>\n<strong>Alaska, California, Colorado, Connecticut, Hawaii, Illinois, Maryland, Massachusetts, New Jersey, New York, Washington D.C.<\/strong><\/p>\n<p>If you would like to make a purchase from one of these states, please email or call us for more information at\u00a0<a href=\"mailto:sales@shoot-straight.com\">sales@shoot-straight.com<\/a>\u00a0\/\u00a0321-396-3108.<\/p>\n<hr \/>\n",
+        "short_description": "",
+        "sku": "J686SJ0L",
+        "price": "1998",
+        "regular_price": "1998",
+        "sale_price": "",
+        "date_on_sale_from": "",
+        "date_on_sale_to": "",
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1,998.00<\/span>",
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "download_type": "standard",
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "in_stock": false,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "sold_individually": false,
+        "weight": "16",
+        "dimensions": {
+            "length": "54",
+            "width": "12",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "related_ids": [
+            104504,
+            97166,
+            10129,
+            87032,
+            9851
+        ],
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 1043,
+                "name": "BREAK-BARREL SHOTGUNS",
+                "slug": "break-barrel-shotguns"
+            },
+            {
+                "id": 949,
+                "name": "FIREARMS",
+                "slug": "firearms"
+            }
+        ],
+        "tags": [
+            {
+                "id": 1639,
+                "name": "686 SILVER PIGEON I",
+                "slug": "686-silver-pigeon-i"
+            },
+            {
+                "id": 2865,
+                "name": "BERETTA",
+                "slug": "beretta"
+            },
+            {
+                "id": 5616,
+                "name": "J686SJ0L",
+                "slug": "j686sj0l"
+            },
+            {
+                "id": 5403,
+                "name": "SHOTGUN",
+                "slug": "shotgun"
+            },
+            {
+                "id": 1854,
+                "name": "SPORTING",
+                "slug": "sporting"
+            },
+            {
+                "id": 5412,
+                "name": "VENTED MID RIB",
+                "slug": "vented-mid-rib"
+            }
+        ],
+        "images": [
+            {
+                "id": 96038,
+                "date_created": "2020-01-06T16:08:06",
+                "date_modified": "2020-01-06T17:39:41",
+                "src": "https:\/\/shoot-straight.com\/wp-content\/uploads\/2020\/01\/BERETTA-J686SJ0.jpg",
+                "name": "BERETTA-J686SJ0",
+                "alt": "Beretta 686 Silver Pigeon I Sporting - Vented Mid Rib",
+                "position": 0
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Brands",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "BERETTA"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products\/109389"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/shoot-straight.com\/wp-json\/wc\/v1\/products"
+                }
+            ]
+        }
+    }
+]
