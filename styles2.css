@@ -73,7 +73,7 @@ a{
 
 .logo{
     flex-grow: 1;
-    text-align: center;
+    text-align: left;
     margin-right: 5px;
     font-size: 1.5rem;
     
@@ -208,7 +208,8 @@ a{
     margin: 0 auto;
     margin-bottom: 30px;
     background-color: white;
-    flex-direction: row;
+    /* flex-flow: row;   */
+    justify-content: space-evenly;  
     
 }
 
@@ -218,9 +219,8 @@ a{
 
 .featuredCategory{
     background-color: white;
-    flex-direction: row;
-    width: 20%;
-    /* height: 100%; */
+    /* flex-direction: row; */
+    width: 20%;    
 }
 
 .pistolCategory{
