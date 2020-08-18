@@ -1,0 +1,45 @@
+.firearmContainer{
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: 60px auto;
+}
+
+.firearmHeader{    
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    
+}
+
+.firearmItems{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-rows: 1fr, 300px;
+    
+    
+    align-items: center;    
+    background-color: white;    
+    margin-top: 25px;
+}
+
+.firearmItem{
+    display: flex;
+    flex-direction: column; 
+    max-width: 100%;   
+    transition: background-color .5s ease-in-out;
+    max-height: 300px;
+    object-fit: contain;
+    border: 1px solid gray;
+    text-align: center;
+    margin: .5px;
+    
+}
+.firearmItem > img {
+    object-fit: scale-down;
+    max-width: 100%;
+}
+
+.firearmItem:hover{
+    background-color: lightblue;
+}
+
